@@ -186,15 +186,17 @@ Recommendation:
 ---
 
 ### 10. Revenue vs Distance Analysis
-![Revenue vs Distance](./images/revenue_vs_distance.png)
+![Revenue vs Distance](./images/revenue_vs_ridedistance.png)
 
-**Pricing Insights:**
-- **Strong linear relationship** across all vehicle types
-- **Prime SUV:** ~₹30/km (highest rate)
-- **Mini/Bike:** ~₹10/km (lowest rate)
-- **Sweet spot:** 10-25 km rides (highest frequency + good revenue)
+Key Insights (2 Points)
 
-**Opportunity:** Long-distance packages (50+ km) with competitive pricing.
+Revenue increases proportionally with ride distance across all vehicle types, confirming a clear distance-based pricing model rather than time-based or dynamic cost variation.
+
+Premier Sedan and Uber XL show consistently higher revenue for the same distance compared to Auto, Bike, and Go Mini — indicating premium pricing elasticity and higher margin contribution from longer trips.
+
+One-Line Recommendation
+
+Promote Premier Sedan and Uber XL through targeted offers for long-distance airport/outstation routes to maximize high-value ride share and boost overall revenue margin.
 
 ---
 
