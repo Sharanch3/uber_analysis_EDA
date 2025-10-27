@@ -50,7 +50,6 @@ Overall Performance:
 ```
 ✅ Total Rides: 150,000
 ✅ Successful Rides: 93,000 
-
 ✅Success Rate: 62.0 %
 ✅ Total Revenue: ₹ 4,72,60,574 (~₹ 5 Crore)
 ✅ Average Ride Value: ₹ 508
@@ -62,7 +61,6 @@ Overall Performance:
 ```
 ❌ Total failure: 57,000
 ❌ Failure rate: 38.0%
-
 ❌ Driver Cancellations: 27,000
 ❌ Driver cancellation rate: 47.37%
 ❌ Customer Cancellations: 10,500 
