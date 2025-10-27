@@ -150,19 +150,23 @@ Recommendation:
 
 ---
 
-### 8. Booking Heatmap
-![Heatmap](./images/booking_heatmap.png)
+### 8. Booking by day & hour Heatmap
+![Heatmap](./images/booking_day&hour.png)
 
-**Hottest Zones (Highest Demand):**
-- Tuesday-Thursday: 8-10 PM
-- Weekday evenings: 6-10 PM
-- Monday mornings: 8-10 AM
+Key Insights:
+- Peak demand consistently occurs between 6 PM and 8 PM across all days, with the highest intensity around 7 PM.
+→ This is likely due to office commute + evening travel needs.
 
-**Coldest Zones (Lowest Demand):**
-- All days: 2-5 AM
-- Weekends: 6-10 AM
+- Early morning hours (12 AM to 5 AM) have very low demand on all days.
+→ Demand remains minimal until around 6 AM, when it begins rising steadily.
 
-**Application:** Predictive driver allocation and dynamic pricing.
+- Mid-day (12 PM–3 PM) bookings show moderate activity, but still noticeably lower than morning and evening peaks.
+→ Suggests lunchtime & casual travel demand, but not a driver shortage zone.
+
+- Booking patterns are consistent across all weekdays and weekends, meaning demand cycles are predictable, not random.
+
+Recommendation:
+→ Increase driver availability and dynamic pricing during 6 PM–9 PM to maximize ride fulfillment and revenue, while reducing idle time during early mornings.
 
 ---
 
