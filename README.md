@@ -188,15 +188,13 @@ Recommendation:
 ### 10. Revenue vs Distance Analysis
 ![Revenue vs Distance](./images/revenue_vs_ridedistance.png)
 
-Key Insights (2 Points)
+Key Insights:
+- Revenue increases proportionally with ride distance across all vehicle types, confirming a clear distance-based pricing model rather than time-based or dynamic cost variation.
 
-Revenue increases proportionally with ride distance across all vehicle types, confirming a clear distance-based pricing model rather than time-based or dynamic cost variation.
+- Premier Sedan and Uber XL show consistently higher revenue for the same distance compared to Auto, Bike, and Go Mini — indicating premium pricing elasticity and higher margin contribution from longer trips.
 
-Premier Sedan and Uber XL show consistently higher revenue for the same distance compared to Auto, Bike, and Go Mini — indicating premium pricing elasticity and higher margin contribution from longer trips.
-
-One-Line Recommendation
-
-Promote Premier Sedan and Uber XL through targeted offers for long-distance airport/outstation routes to maximize high-value ride share and boost overall revenue margin.
+Recommendation:
+→  Promote Premier Sedan and Uber XL through targeted offers for long-distance airport/outstation routes to maximize high-value ride share and boost overall revenue margin.
 
 ---
 
