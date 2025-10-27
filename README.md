@@ -237,9 +237,9 @@ Recommendation:
 ```
 
 ### Feature Engineering
+- **Engineered new feature** from date and time to date time
 - **Temporal features:** Month, Day, Hour extracted from DateTime
-- **Status flags:** Completion, cancellation, incompletion indicators
-- **Rating categorization:** Bucketing for sentiment analysis
+
 
 ### Technologies Used
 - **Python 3.8+**
@@ -250,94 +250,11 @@ Recommendation:
 
 ---
 
-## 📦 Installation & Usage
-
-### Prerequisites
-```bash
-Python 3.8+
-pip install pandas numpy matplotlib seaborn
-```
-
-### Running the Analysis
-```bash
-# Clone repository
-git clone <repository-url>
-
-# Navigate to project directory
-cd ncr-ride-bookings-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Notebook
-jupyter notebook ncr_ride_analysis.ipynb
-```
-
----
-
-## 📁 Project Structure
-
-```
-ncr-ride-bookings-analysis/
-│
-├── data/
-│   └── ncr_ride_bookings.csv          # Raw dataset
-│
-├── images/                             # Visualization outputs
-│   ├── booking_status_distribution.png
-│   ├── peak_hour_paradox.png
-│   ├── hourly_booking_trend.png
-│   ├── monthly_booking_trend.png
-│   ├── revenue_by_vehicle.png
-│   ├── customer_rating_distribution.png
-│   ├── booking_heatmap.png
-│   ├── success_rate_vehicle_hour.png
-│   ├── revenue_vs_distance.png
-│   └── payment_method_distribution.png
-│
-├── ncr_ride_analysis.ipynb            # Main analysis notebook
-├── README.md                          # This file
-├── requirements.txt                   # Python dependencies
-└── insights_recommendations.md        # Detailed insights per graph
-
-```
-
----
-
-## 🎓 Key Learnings
-
-1. **Supply-demand dynamics are critical** - High demand without supply leads to customer dissatisfaction
-2. **Driver behavior significantly impacts success** - Driver cancellations are controllable pain point
-3. **Premium segments need special attention** - High-value customers have different expectations
-4. **Time-based patterns are predictable** - Enable proactive resource allocation
-5. **Monthly decline signals market changes** - Requires immediate strategic response
-
----
-
-## 🚀 Next Steps
-
-1. **A/B Testing:** Implement recommended changes in pilot markets
-2. **Real-time Dashboard:** Build live monitoring system for key metrics
-3. **Predictive Modeling:** Develop ML models for demand forecasting
-4. **Customer Segmentation:** Create personalized experiences for different user groups
-5. **Competitor Benchmarking:** Regular market analysis and positioning
-
----
-
-## 👥 Contributors
-
-**Data Analyst:** [Your Name]
-**Project Duration:** [Start Date] - [End Date]
-**Last Updated:** October 27, 2025
-
----
-
 ## 📧 Contact
 
 For questions, suggestions, or collaboration opportunities:
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** [saranchmukhia@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
 
 ---
 
