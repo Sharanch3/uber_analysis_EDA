@@ -75,27 +75,26 @@ Overall Performance:
 ### 1. Booking Status Distribution
 ![Booking Status](./images/booking_status_distribution.png)
 
-**Key Finding:** 62.0 completion rate is okay, but driver cancellations (18%) are the primary concern. Customer cancellations and "No Driver Found" are secondary issues
+Key Insights:
+- 62% of total bookings are successfully completed, indicating that the platform is functioning well but still has room to improve reliability.
 
-**Recommendations**
-- Implement penalty system for frequent cancellations
-- Improve fare transparency before acceptance
-- Add incentives for completing long-distance pickups
-- "No Driver Found" indicates supply gaps during peak demand
+- 18% of bookings are cancelled by drivers, which is significant and suggests supply-side reliability or incentive issues.
+
+Recommendation:
+→ Investigate driver cancellation reasons and introduce targeted driver incentives to reduce the 18% cancellation rate.
 
 ---
 
-### 2. The Peak Hour Paradox 🚨
-![Peak Hour Paradox](./images/peak_hour_paradox.png)
+### 2. Success Rate by Hour of the Day
+![Success Rate by Hour](./images/peak_hour_paradox.png)
 
-**Critical Discovery:** Highest demand hours (8-10 PM) have lowest success rates (88%).
+Key Insights:
+- Success rate peaks around 2 AM (~63.7%), likely due to lower demand and less competition for driver availability.
 
-**Analysis:**
-- **8-10 PM:** 11,000 bookings, 12% failure = 1,320 lost rides/hour
-- **Off-peak (2-5 AM):** 1,500 bookings, 3% failure rate
-- **Root Cause:** Severe supply-demand mismatch during evening rush
+- Success rate dips between 1–3 PM (~61.2–61.6%), suggesting possible supply shortage or high demand during afternoon hours.
 
-**Revenue Impact:** Peak hour optimization could generate ₹1.2 crore additional monthly revenue.
+Recommendation:
+→ Deploy more driver availability or surge pricing between 1–3 PM to stabilize success rates.
 
 ---
 
