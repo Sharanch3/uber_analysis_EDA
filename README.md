@@ -138,7 +138,7 @@ Recommendation:
 ---
 
 ### 6. Customer Satisfaction
-![Customer Rating](./images/customer_rating_distribution.png)
+![Customer Rating](./images/cutsomer_rating_distribution.png)
 
 Key Insights:
 - The majority of customer ratings are between 4.2 and 5.0, showing generally high customer satisfaction.
