@@ -28,6 +28,12 @@ Evaluate revenue contribution by each vehicle segment to adjust pricing, promoti
 | **Target Variable** | Booking Status |
 | **Data Quality** | 7-94% missing values (context-aware imputation applied) |
 
+--- 
+### Missing vlaue percentage of each columns:
+![Booking Status](./images/missing_data.png)
+
+---
+
 ### Key Features:
 - **Temporal:** Date, Time, Month, Day, Hour
 - **Operational:** Booking Status, Vehicle Type, VTAT, CTAT
