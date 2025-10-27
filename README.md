@@ -7,14 +7,15 @@
 This project provides an in-depth analysis of ride-booking data from the National Capital Region (NCR), covering 100,000+ bookings over 12 months (January - December). The analysis includes data cleaning, missing value assessment, exploratory data analysis (EDA), and visualization to uncover key business insights. Metrics such as ride success rate, vehicle-wise revenue, hourly demand trends, payment preferences, and customer ratings were examined to evaluate overall platform performance. The findings highlight peak-hour supply shortages, incomplete data collection on cancellations, and varying revenue contributions across vehicle types, informing strategic recommendations to improve driver allocation, data capture,  customer experience, and customer behavior patterns to drive data-informed business decisions.
 
 ### Business Objectives:
-**Improve Ride Completion Rate**
+**1. Improve Ride Completion Rate:**
 Identify key reasons for ride failures and cancellations to increase the percentage of successful bookings.
 
-**Optimize Driver Supply According to Demand**
+**2. Optimize Driver Supply According to Demand:**
 Analyze peak demand hours and locations to ensure the right number of drivers are available at the right time.
 
-**Maximize Revenue Across Vehicle Types**
+**3. Maximize Revenue Across Vehicle Types:**
 Evaluate revenue contribution by each vehicle segment to adjust pricing, promotions, and fleet allocation effectively.
+
 ---
 
 ## 📊 Dataset Information
