@@ -1,14 +1,4 @@
-# 🚗 NCR Ride Bookings Analysis - Comprehensive Report
-
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset Information](#dataset-information)
-- [Key Business Metrics](#key-business-metrics)
-- [Analysis & Insights](#analysis--insights)
-- [Critical Recommendations](#critical-recommendations)
-- [Technical Implementation](#technical-implementation)
-- [Installation & Usage](#installation--usage)
-- [Project Structure](#project-structure)
+# 🚗 UBER Analysis - Comprehensive Report
 
 ---
 
