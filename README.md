@@ -101,25 +101,20 @@ Recommendation:
 ### 3. Hourly Booking Trends
 ![Hourly Trends](./images/hourly_booking_trend.png)
 
+Key Insights:
+- Bookings are very low during early morning hours (12 AM–4 AM) and gradually increase after 6 AM.
 
+- Peak demand occurs around 7 PM (~12,300 bookings), followed by a decline late at night.
+
+Recommendation:
+→ Increase driver supply and reduce rider wait times during peak evening hours (6–9 PM) to maximize fulfillment and revenue.
 
 ---
 
 ### 4. Monthly Booking Trend ⚠️
 ![Monthly Trend](./images/monthly_booking_trend.png)
 
-**Alarming Discovery:** 32% decline from January to June.
 
-**Breakdown:**
-- January: 19,000 bookings
-- June: 13,000 bookings
-- Month-over-month consistent decline
-
-**Urgent Investigation Needed:**
-- Competitor analysis
-- Customer churn study
-- Pricing strategy review
-- Driver supply issues
 
 ---
 
