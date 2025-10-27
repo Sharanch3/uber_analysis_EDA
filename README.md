@@ -125,6 +125,7 @@ Recommendation:
 ---
 
 ### 5. The Peak Hour Paradox: High Demand vs Low Success Rate
+![Peak Hour Paradox](./images/success_rate_and_demand.png)
 
 Key Insights:
 - Demand peaks between 17:00–21:00, but success rate dips below average (~61–62%) during the same period — indicating driver shortage or increased cancellations during peak hours.
