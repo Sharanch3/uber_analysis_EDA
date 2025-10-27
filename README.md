@@ -194,19 +194,20 @@ Key Insights:
 - Premier Sedan and Uber XL show consistently higher revenue for the same distance compared to Auto, Bike, and Go Mini — indicating premium pricing elasticity and higher margin contribution from longer trips.
 
 Recommendation:
-→  Promote Premier Sedan and Uber XL through targeted offers for long-distance airport/outstation routes to maximize high-value ride share and boost overall revenue margin.
+→ Promote Premier Sedan and Uber XL through targeted offers for long-distance airport/outstation routes to maximize high-value ride share and boost overall revenue margin.
 
 ---
 
 ### 11. Payment Method Distribution
-![Payment Methods](./images/payment_method_distribution.png)
+![Payment Methods](./images/countplot_payment_methods.png)
 
-**Digital Adoption:**
-- **Cash:** 48% (~45,000 rides)
-- **UPI:** 43% (~40,000 rides)
-- **Cards:** 9% (combined)
+Key Insights:
+- UPI is the dominant payment method, accounting for the highest share (~40k+ transactions) — indicating strong user preference for fast, cashless, low-friction payments.
 
-**Trend:** Digital payments at 52% show strong adoption, but cash still dominant.
+- Cash is the second-most used payment method (~23k transactions), showing that a significant portion of users still depend on cash, likely due to driver preference or inconsistent digital payment reliability.
+
+Recommendation:
+→ Introduce small cashback or loyalty points for UPI and Uber Wallet payments to further reduce cash dependency and improve payment processing efficiency.
 
 ---
 
