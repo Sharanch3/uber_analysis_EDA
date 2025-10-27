@@ -111,26 +111,20 @@ Recommendation:
 
 ---
 
-### 4. Monthly Booking Trend ⚠️
-![Monthly Trend](./images/monthly_booking_trend.png)
-
-
-
----
-
-### 5. Weekly Patterns
+### 4. Weekly Patterns
 ![Day of Week](./images/daily_booking_trend.png)
 
-**Insights:**
-- **Weekdays (Tue-Thu):** 16,500 bookings (peak)
-- **Weekends (Sat-Sun):** 14,000 bookings (10-15% lower)
-- **Pattern:** Commuter-driven demand dominates
+Key Insights:
+- Monday has the highest booking volume (~21650+ bookings), showing stronger demand at the start of the week.
 
-**Opportunity:** Weekend leisure market is underpenetrated.
+- Thursday sees the lowest booking count (~21200) before it rises again towards the weekend.
+
+Recommendation:
+→ Introduce mid-week offers or driver incentives on Thursdays to boost booking volume.
 
 ---
 
-### 6. Revenue by Vehicle Type
+### 5. Revenue by Vehicle Type
 ![Revenue by Vehicle](./images/total_revenue_by_vehicle.png)
 
 Key Insights:
@@ -143,15 +137,16 @@ Recommendation:
 
 ---
 
-### 7. Customer Satisfaction
+### 6. Customer Satisfaction
 ![Customer Rating](./images/customer_rating_distribution.png)
 
-**Analysis:**
-- **Average Rating:** 4.0/5.0
-- **Distribution:** Right-skewed (most ratings 4-5 stars)
-- **Concern:** Long left tail (low ratings 1-3 stars)
+Key Insights:
+- The majority of customer ratings are between 4.2 and 5.0, showing generally high customer satisfaction.
 
-**Improvement Potential:** Moving from 4.0 to 4.5 average could increase customer retention by 15-20%.
+- A noticeable peak at the rating 5.0 indicates many users give the maximum rating, suggesting positive service experience but also potential rating bias.
+
+Recommendation:
+→ Analyze feedback from users rating below 4.0 to identify specific service pain points and improve customer experience.
 
 ---
 
