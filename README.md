@@ -86,7 +86,7 @@ Recommendation:
 ---
 
 ### 2. Success Rate by Hour of the Day
-![Success Rate by Hour](./images/peak_hour_paradox.png)
+![Success Rate by Hour](./images/success_rate_by_hour.png)
 
 Key Insights:
 - Success rate peaks around 2 AM (~63.7%), likely due to lower demand and less competition for driver availability.
