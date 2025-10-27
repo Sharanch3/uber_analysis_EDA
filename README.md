@@ -14,7 +14,7 @@
 
 ## 🎯 Project Overview
 
-This project provides an in-depth analysis of ride-booking data from the National Capital Region (NCR), covering 100,000+ bookings over 6 months (January - December). The analysis identifies operational bottlenecks, revenue opportunities, and customer behavior patterns to drive data-informed business decisions.
+This project provides an in-depth analysis of ride-booking data from the National Capital Region (NCR), covering 100,000+ bookings over 12 months (January - December). The analysis identifies operational bottlenecks, revenue opportunities, and customer behavior patterns to drive data-informed business decisions.
 
 ### Business Objectives:
 1. **Maximize Success Rate** - Currently at 93.5%, targeting 95%+
