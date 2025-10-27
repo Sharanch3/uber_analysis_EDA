@@ -124,7 +124,19 @@ Recommendation:
 
 ---
 
-### 5. Revenue by Vehicle Type
+### 5. The Peak Hour Paradox: High Demand vs Low Success Rate
+
+Key Insights:
+- Demand peaks between 17:00–21:00, but success rate dips below average (~61–62%) during the same period — indicating driver shortage or increased cancellations during peak hours.
+
+- Early morning hours (2:00–7:00) show low demand but higher success rates, meaning supply is adequate when demand is low — confirming capacity strain is time-specific.
+
+Recommendation:
+→  Introduce time-based surge incentives for drivers from 5 PM to 9 PM to align supply with peak demand and improve ride completion rates.
+
+---
+
+### 6. Revenue by Vehicle Type
 ![Revenue by Vehicle](./images/total_revenue_by_vehicle.png)
 
 Key Insights:
@@ -137,7 +149,7 @@ Recommendation:
 
 ---
 
-### 6. Customer Satisfaction
+### 7. Customer Satisfaction
 ![Customer Rating](./images/cutsomer_rating_distribution.png)
 
 Key Insights:
@@ -208,132 +220,6 @@ Key Insights:
 
 Recommendation:
 → Introduce small cashback or loyalty points for UPI and Uber Wallet payments to further reduce cash dependency and improve payment processing efficiency.
-
----
-
-## 🎯 Critical Recommendations
-
-### 🔴 Immediate Priority (Week 1-2)
-
-#### 1. Peak Hour Crisis Management
-**Problem:** 12% failure rate during 8-10 PM = ₹1.2 Cr monthly loss
-
-**Actions:**
-- [ ] Implement 3x driver incentives for 8-10 PM shifts
-- [ ] Launch "Peak Hour Champion" program with bonuses
-- [ ] Enable emergency driver notification system
-- [ ] Introduce surge pricing to balance demand
-
-**Expected Impact:** Increase peak hour success rate from 88% to 93% (+₹40 lakh monthly)
-
----
-
-#### 2. Driver Cancellation Reduction
-**Problem:** 3.8% rides cancelled by drivers = ₹2 Cr annual loss
-
-**Actions:**
-- [ ] Implement penalty system for cancellations >10% monthly
-- [ ] Show pickup distance before acceptance
-- [ ] Offer distance-based acceptance bonuses
-- [ ] Create "reliable driver" badge system
-
-**Expected Impact:** Reduce driver cancellations by 50% (1.9% to 1%) = ₹1 Cr annually
-
----
-
-### 🟡 Short-term (Month 1-3)
-
-#### 3. Reverse Monthly Decline Trend
-**Problem:** 32% booking decline over 6 months
-
-**Actions:**
-- [ ] Conduct comprehensive customer churn analysis
-- [ ] Launch win-back campaign with personalized offers
-- [ ] Implement referral program (₹100 for referrer + referee)
-- [ ] Review competitor pricing and features
-- [ ] Investigate driver supply constraints
-
-**Expected Impact:** Stabilize bookings at 16,000/month, then grow 5% monthly
-
----
-
-#### 4. Weekend Revenue Growth
-**Problem:** 15% lower bookings on weekends = untapped leisure market
-
-**Actions:**
-- [ ] Partner with malls, restaurants, entertainment venues
-- [ ] Launch "Weekend Explorer" packages
-- [ ] Offer 15% weekend discounts during off-peak hours
-- [ ] Target social media campaigns for leisure travel
-
-**Expected Impact:** Increase weekend bookings by 20% (₹50 lakh monthly)
-
----
-
-#### 5. Premium Vehicle Optimization
-**Problem:** Premium vehicles show lower success rates at peak hours
-
-**Actions:**
-- [ ] Dedicated premium driver recruitment
-- [ ] Higher incentives for Prime SUV/Sedan during peaks
-- [ ] Premium customer priority matching algorithm
-- [ ] Vehicle availability guarantees for corporate clients
-
-**Expected Impact:** Improve premium success rate by 5% (₹30 lakh monthly)
-
----
-
-### 🟢 Long-term (Quarter 2+)
-
-#### 6. Digital Payment Acceleration
-**Current:** 52% digital payments
-**Target:** 75% digital payments by end of year
-
-**Actions:**
-- [ ] 10% cashback on UPI/card payments (first 3 months)
-- [ ] Integrate all major wallets (Paytm, PhonePe, Google Pay)
-- [ ] "Digital-only" exclusive discounts
-- [ ] Driver incentives for cashless rides
-
-**Expected Impact:** Reduce cash handling costs by ₹20 lakh annually
-
----
-
-#### 7. Customer Experience Enhancement
-**Current:** 4.0/5.0 average rating
-**Target:** 4.5/5.0 average rating
-
-**Actions:**
-- [ ] Mandatory driver training program
-- [ ] Vehicle cleanliness inspections
-- [ ] Real-time customer feedback system
-- [ ] Instant issue resolution for low-rated rides
-- [ ] Driver rating-based incentive tiers
-
-**Expected Impact:** 15% increase in customer retention = ₹7.5 Cr annual revenue
-
----
-
-#### 8. Data-Driven Route Optimization
-**Actions:**
-- [ ] Implement ML-based demand forecasting
-- [ ] Predictive driver allocation system
-- [ ] Dynamic pricing engine based on real-time supply-demand
-- [ ] Automated shift scheduling recommendations
-
-**Expected Impact:** 2% overall success rate improvement = ₹1 Cr annually
-
----
-
-## 📈 Expected ROI Summary
-
-| Initiative | Investment | Annual Return | ROI |
-|-----------|-----------|---------------|-----|
-| Peak Hour Optimization | ₹20 Lakh | ₹4.8 Cr | 24x |
-| Driver Cancellation Program | ₹15 Lakh | ₹1 Cr | 6.7x |
-| Weekend Growth Campaign | ₹30 Lakh | ₹6 Cr | 20x |
-| Customer Experience | ₹50 Lakh | ₹7.5 Cr | 15x |
-| **Total** | **₹1.15 Cr** | **₹19.3 Cr** | **16.8x** |
 
 ---
 
