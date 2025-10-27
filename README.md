@@ -29,7 +29,7 @@ Evaluate revenue contribution by each vehicle segment to adjust pricing, promoti
 | **Data Quality** | 7-94% missing values (context-aware imputation applied) |
 
 --- 
-### Missing vlaue percentage of each columns:
+### Missing value percentage of each column:
 ![Booking Status](./images/missing_data.png)
 
 ---
