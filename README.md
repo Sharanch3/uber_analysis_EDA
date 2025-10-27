@@ -171,14 +171,17 @@ Recommendation:
 ---
 
 ### 9. Success Rate by Vehicle & Hour
-![Success Rate Heatmap](./images/success_rate_vehicle_hour.png)
+![Success Rate Heatmap](./images/success_rate_by_vehicle_type.png)
 
-**Key Findings:**
-- **Premium vehicles struggle during peak hours** (80-85% success)
-- **Economy vehicles maintain consistency** (90-95% success)
-- **All vehicles affected** during 6-10 PM window
+Key Insights:
+- Go Sedan has the highest success rate during early morning hours (2–4 AM), reaching ~69–70%.
+→ This indicates low demand but consistent supply, making trips more likely to complete successfully.
 
-**Hypothesis:** Premium customers have higher expectations; cancellations occur when wait times increase.
+- Premier Sedan and Uber XL show the lowest success rates during peak commute hours (8–11 AM and 6–9 PM), dropping to ~56–58%.
+→ This shows demand exceeds supply for premium vehicle categories during busy periods, leading to higher cancellations.
+
+Recommendation:
+→ Increase driver incentives specifically for Premier Sedan and Uber XL during morning and evening peak hours to close the supply gap and improve completion rates.
 
 ---
 
