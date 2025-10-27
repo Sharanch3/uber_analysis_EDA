@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+
+
+ipykernel
+plotly
+streamlit
+streamlit-extras
