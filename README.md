@@ -101,14 +101,7 @@ Recommendation:
 ### 3. Hourly Booking Trends
 ![Hourly Trends](./images/hourly_booking_trend.png)
 
-**Demand Patterns:**
-- **Morning Peak:** 8-10 AM (~8,000 bookings)
-- **Evening Peak:** 6-10 PM (~10,000 bookings)
-- **Dead Zone:** 2-5 AM (<2,000 bookings)
 
-**Success Rate Correlation:**
-- High demand = Lower success rate
-- Low demand = Higher success rate (95%+)
 
 ---
 
@@ -143,16 +136,15 @@ Recommendation:
 ---
 
 ### 6. Revenue by Vehicle Type
-![Revenue by Vehicle](./images/revenue_by_vehicle.png)
+![Revenue by Vehicle](./images/total_revenue_by_vehicle.png)
 
-**Performance Ranking:**
-1. **Prime Sedan:** ₹13.5 Cr (26% of revenue)
-2. **Prime SUV:** ₹11 Cr (21% of revenue)
-3. **Sedan:** ₹9 Cr (18% of revenue)
-4. **Auto:** ₹6.5 Cr (13% of revenue)
-5. **Others:** <₹3 Cr each
+Key Insights:
+- Auto generates the highest revenue (~1.16 crore), indicating it is the most preferred and frequently used mode.
 
-**Strategy:** Premium vehicles drive 47% of total revenue despite smaller fleet size.
+- Uber XL contributes the lowest revenue (~0.14 crore), suggesting lower demand or a niche user segment.
+
+Recommendation:
+→ Focus marketing and operational optimization around Auto and Go Mini while evaluating pricing or repositioning strategies for Uber XL.
 
 ---
 
